@@ -9,7 +9,7 @@ I created this becasue I saw people wanting to make a system like snapchat.
 <br>
 The recordings/screenshots do NOT support light (kinda), the sky, and terrain
 <br><br><br>
-# Example:
+<h1>Example:</h1>
 <br>
 Recording:
 <br>
