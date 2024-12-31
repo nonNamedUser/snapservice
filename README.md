@@ -13,5 +13,4 @@ The recordings/screenshots do NOT support light (kinda), the sky, and terrain
 <br>
 Recording:
 <br>
-https://github.com/user-attachments/assets/857741cd-7f7a-402d-ab53-2873a57e6ba6
 <video src="https://github.com/user-attachments/assets/857741cd-7f7a-402d-ab53-2873a57e6ba6"></video>
